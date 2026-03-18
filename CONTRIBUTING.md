@@ -1,6 +1,6 @@
 # Contributing to VerdeOS
 
-First off — thank you. ForgeOS is a large, long-term project and every contribution matters, whether it's fixing a typo in the docs, squashing a kernel bug, or designing an entire subsystem. This document will walk you through everything you need to know to contribute effectively.
+First off — thank you. VerdOS is a large, long-term project and every contribution matters, whether it's fixing a typo in the docs, squashing a kernel bug, or designing an entire subsystem. This document will walk you through everything you need to know to contribute effectively.
 
 If you have questions not answered here, open a [GitHub Discussion](../../discussions) and we'll help you out.
 
