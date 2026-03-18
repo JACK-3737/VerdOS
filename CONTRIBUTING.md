@@ -1,4 +1,4 @@
-# Contributing to ForgeOS
+# Contributing to VerdeOS
 
 First off — thank you. ForgeOS is a large, long-term project and every contribution matters, whether it's fixing a typo in the docs, squashing a kernel bug, or designing an entire subsystem. This document will walk you through everything you need to know to contribute effectively.
 
